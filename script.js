@@ -63,6 +63,7 @@ const perguntas = [
             {
                 texto: "Você tem razão. Talvez eu precise revisar meus objetivos e ajustar minha abordagem.",
                 afirmacao: "Decidiu seguir em frente mesmo com as dificuldades.",
+            },
             {
                 texto: "Às vezes, um pouco de reflexão pode ajudar a clarear a visão.",
                 afirmacao: "Começou a pensar sobre suas atitudes e isso te fez melhorar."
