@@ -65,7 +65,7 @@ const perguntas = [
                 afirmacao: "Decidiu seguir em frente mesmo com as dificuldades.",
             {
                 texto: "Às vezes, um pouco de reflexão pode ajudar a clarear a visão.",
-                afirmacao: "Começou a pensar sobre suas atitudes e isso te fez melhorar muito."
+                afirmacao: "Começou a pensar sobre suas atitudes e isso te fez melhorar."
             }
         ]
     },
