@@ -32,41 +32,40 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Às vezes, é fácil ficar desanimado quando os resultados não aparecem rapidamente. Mas lembre-se de que o progresso pode ser mais lento do que imaginamos. Não é verdade?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Não, às vezes acho que estou apenas perdendo tempo.",
+                afirmacao: "O sucesso não acontece da noite para o dia. Cada pequeno passo conta e é importante reconhecer isso."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Sim, mas o processo parece ser muito demorado.",
+                afirmacao: "O que importa é que você está se esforçando."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Cada pequeno passo conta e é importante reconhecer isso, obstáculos são uma parte natural do processo. Eles não significam que você está no caminho errado, na verdade, eles muitas vezes nos ajudam a crescer e a aprender mais sobre nós mesmos.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "em, eu queria realmente fazer a diferença na minha área e sentir que estou contribuindo com algo significativo.",
+                afirmacao: "Continue nesse caminho, tem dias que são difíceis de lidar, mas sempre é um passo mais perto do objetivo"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Às vezes, parece que estou me afastando disso.",
+                afirmacao: "Não fique assim!"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Lembre-se do impacto positivo que você já causou e das razões que o levaram a iniciar essa jornada. É normal que o caminho não seja sempre linear. O importante é manter o foco e continuar avançando, mesmo que devagar.",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
+                texto: "Você tem razão. Talvez eu precise revisar meus objetivos e ajustar minha abordagem.",
+                afirmacao: "Decidiu seguir em frente mesmo com as dificuldades.",
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Às vezes, um pouco de reflexão pode ajudar a clarear a visão.",
+                afirmacao: "Começou a pensar sobre suas atitudes e isso te fez melhorar muito."
             }
         ]
     },
